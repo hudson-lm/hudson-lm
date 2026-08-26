@@ -16,6 +16,8 @@
 
 - 📫 How to reach me **marcushudson228@gmail.com**
 
+- 🌐 Check my personal website **<a href="https://marcus-hudson-portfolio.vercel.app/" target="_blank">marcus-hudson-portfolio.vercel.app</a>**
+
 - ⚡ Fun fact **I love coding and problem-solving! ❤️**
   
 <a href="https://github.com/hudson-lm"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
