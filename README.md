@@ -1,18 +1,18 @@
 <a href="https://github.com/hudson-lm"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align="center">Hi 👋, I'm Hudson Lois Marcus</h1>
-<h3 align="center">A passionate Cybersecurity from Indonesia</h3>
+<h3 align="center">A passionate SWE from Indonesia, studying in Hong Kong</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hudson-lm&label=Profile%20views&color=0e75b6&style=flat" alt="hudson-lm" /> </p>
 
 - 🔭 I’m currently studying at **City University of Hong Kong**
 
-- 🌱 I’m currently learning **MySQL, ReactJS, Python, and Cybersecurity**
+- 🌱 I’m currently learning **Cybersecurity, Machine Learning, and DevOps Practice**
 
 - 📍 I'm living in **Hong Kong**
 
-- 💬 Ask me about **ReactJS**
+- 💬 Ask me about **How I develop my career growth 😊**
 
 - 📫 How to reach me **marcushudson228@gmail.com**
 
